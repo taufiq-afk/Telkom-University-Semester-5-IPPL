@@ -2,7 +2,7 @@ LAPORAN AKHIR PROJECT RPL: IMPLEMENTASI DAN PENGUJIAN PERANGKAT LUNAK
 
 Tugas Week 15: ASSESMENT #2
 
-Source (slide presentasi):
+Source (slide presentasi): https://www.canva.com/design/DAGbJ0A_OsA/WVMPF4z_Wga8XE0LIrCk1A/edit?utm_content=DAGbJ0A_OsA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Source (code): https://drive.google.com/drive/folders/1s6BHg4GeONf463_fDu-FLT4Zi0mRVLqK?usp=drive_link
 
